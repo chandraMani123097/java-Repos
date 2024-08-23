@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class permutation {
+public class path {
    public static int countPaths(int i ,int j,int m , int n){
     if (i==m||j==n) {
         return 0;
